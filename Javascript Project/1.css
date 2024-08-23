@@ -1,0 +1,105 @@
+*{
+
+}
+
+#s1{
+ 
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: s1 1s alternate 0s infinite;
+}
+@keyframes s1 {
+    0%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.1); 
+    }
+}
+.s1{
+    height: 700px;
+    width: 100%;
+    background-image: url(https://demothemesky-be87.kxcdn.com/jaroti/wp-content/uploads/2023/03/intro-header-bg-2.jpg);
+    background-size: cover;
+}
+.s3{
+    height: auto;
+
+}
+.s4{
+    margin-top: 100px;
+}
+.s6{
+    height: auto;
+
+}
+.s8{
+ 
+    background-color: #ecd2dd;
+}
+.s12{
+  background-color: #e5f9ee;
+  height: auto;
+}
+.s13{
+
+    height: auto;
+}
+.s14{
+    height: auto;
+    background-color: #f7eee8;
+}
+.s15{
+
+    height: auto;
+}
+.s16{
+    border-radius: 10px;
+    transition-duration: 1s;
+    width: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.s16:hover{
+    transform: scale(1.1);
+}
+.s17{
+    height: auto;
+
+
+}
+.s19{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 1s;
+}
+.s19:hover{
+    margin-top: -10px;
+}
+.s21{
+    background-image: url(https://demothemesky-be87.kxcdn.com/jaroti/wp-content/uploads/2023/03/intro-bg-2.jpg);
+    height: auto;
+    background-size: cover;
+}
+.s23{
+    height: auto;
+    background-color: #f4e1e1;
+}
+.s28{
+    background-image: url(https://demothemesky-be87.kxcdn.com/jaroti/wp-content/uploads/2023/03/intro-bg-3.jpg);
+    height: auto;
+    background-size: cover;
+}
+.s30{
+    height: auto;
+ 
+ 
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+}
+.s29{
+    height: 50px;
+    width: 100px;
+}
+
+
